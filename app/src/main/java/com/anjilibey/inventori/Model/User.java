@@ -1,4 +1,4 @@
-package com.anjilibey.inventori;
+package com.anjilibey.inventori.Model;
 
 public class User {
     String name, email, no, password;

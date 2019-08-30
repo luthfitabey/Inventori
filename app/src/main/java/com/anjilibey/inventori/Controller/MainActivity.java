@@ -1,7 +1,9 @@
-package com.anjilibey.inventori;
+package com.anjilibey.inventori.Controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.anjilibey.inventori.R;
 
 public class MainActivity extends AppCompatActivity {
 
