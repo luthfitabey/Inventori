@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367704817118",
+    "firebase_url": "https://inventori-52918.firebaseio.com",
+    "project_id": "inventori-52918",
+    "storage_bucket": "inventori-52918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367704817118:android:91640a807f6023d9",
+        "android_client_info": {
+          "package_name": "com.anjilibey.inventori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367704817118-cva3rpnc0nlc10ukjm77a6d6pcr5l37k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anjilibey.inventori",
+            "certificate_hash": "dc1542ed5be1135ecc6e2fbdffbda0a73cb3138c"
+          }
+        },
+        {
+          "client_id": "367704817118-prtkqs92b0lil3c2acp2m0736dgvhs2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWrdGqQIcSq1WfJ0rsb2X8D-OunyWauI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367704817118-prtkqs92b0lil3c2acp2m0736dgvhs2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
