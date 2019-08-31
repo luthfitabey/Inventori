@@ -44,7 +44,11 @@ public class RegisterActivity extends AppCompatActivity {
         auth= FirebaseAuth.getInstance();
         database=FirebaseDatabase.getInstance();
         progressDialog = new ProgressDialog(this);
-        registerUser();
+        if (auth.getCurrentUser() != null) {
+            startActivity(new Intent(RegisterActivity.this, MainActivity.class));
+            finish();
+        }
+        else registerUser();
     }
 
     private void registerUser() {
